@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋!,  my name is Alvaro, I am a musician and I am currently studying Full Stack Developer at 4Geeks.</h2>
+<h2 align="center">Hi 👋!,  my name is Alvaro Ponce </h2>
+<h5 align="center">I am a musician 🎹 and I am currently studying 📚 Full Stack Developer at 4Geeks🧑🏻‍💻.</h5>
 
 ###
 
