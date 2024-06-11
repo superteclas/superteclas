@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋!,  my name is Alvaro Ponce </h2>
-<h5 align="center">I am a musician 🎹 and I am currently studying 📚 Full Stack Developer at 4Geeks🧑🏻‍💻.</h5>
+<h5 align="center">I am a musician 🎹 and Full Stack Developer🧑🏻‍💻.</h5>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=superteclas&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
